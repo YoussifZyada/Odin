@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Indie+Flower&family=Quicksand:wght@300&display=swap');
+html{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 2rem;
+}
+
+body {
+    background-color:#D9D5C5;
+    color: #261E17;
+}
+
+.header {
+    text-align: center;
+}
+
+
+img {
+    width: 450px;
+    height: 500px;
+    float: right;
+}
+
+label {
+    text-align: center;
+    margin-left: 15px;
+    border: #261E17;
+    border-style: solid;
+    border-radius: 30px;
+    padding: 10px;
+    font-weight: bold;
+
+}
+
+p {
+    text-align: left;
+    margin-left: 15px;
+}
+
+hr {
+    border: #D9D5C5;
+}
